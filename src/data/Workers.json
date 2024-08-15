@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "country": "USA",
+      "countryFlag": "🇺🇸",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Photographer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "country": "India",
+      "countryFlag": "🇮🇳",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Mehndi"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Garcia",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Assistant"
+    },
+    {
+      "id": 4,
+      "name": "Maria Rodriguez",
+      "country": "Spain",
+      "countryFlag": "🇪🇸",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Makeup"
+    },
+    {
+      "id": 5,
+      "name": "Ling Wei",
+      "country": "China",
+      "countryFlag": "🇨🇳",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Photographer"
+    },
+    {
+      "id": 6,
+      "name": "Ahmed Ali",
+      "country": "Egypt",
+      "countryFlag": "🇪🇬",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Astrologer"
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "country": "Canada",
+      "countryFlag": "🇨🇦",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Mehndi"
+    },
+    {
+      "id": 8,
+      "name": "Oliver Brown",
+      "country": "UK",
+      "countryFlag": "🇬🇧",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Assistant"
+    },
+    {
+      "id": 9,
+      "name": "Sara Kim",
+      "country": "South Korea",
+      "countryFlag": "🇰🇷",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Makeup"
+    },
+    {
+      "id": 10,
+      "name": "Mohammed Hassan",
+      "country": "UAE",
+      "countryFlag": "🇦🇪",
+      "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
+      "category": "Astrologer"
+    }
+  ]
+  
